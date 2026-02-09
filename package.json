@@ -1,0 +1,21 @@
+{
+  "name": "eudr-fsc-monitor",
+  "version": "1.0.0",
+  "description": "24/7 automated monitoring for EUDR and FSC certification changes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "eudr",
+    "fsc",
+    "monitoring",
+    "compliance",
+    "deforestation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
